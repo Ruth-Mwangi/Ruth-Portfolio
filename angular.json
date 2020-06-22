@@ -30,7 +30,6 @@
               "node_modules/popper.js/dist/umd/popper.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
-          
           },
           "configurations": {
             "production": {
@@ -123,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ruth-Portfolio"
+    }
+  },
+  "defaultProject": "Ruth-Portfolio",
+  "cli": {
+    "analytics": "ca2b78b1-7b06-4205-b51c-d77f7a2118c8"
+  }
 }

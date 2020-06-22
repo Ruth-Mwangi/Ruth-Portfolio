@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'Handlee';
+    src: url(../../assets/fonts/Indie_Flower/IndieFlower-Regular.ttf);
+}
+
+
+h4,a{
+    color: white;
+}
+
+
+
+.home{
+    width: 10%;
+    float: left;
+    font-family: 'Handlee';
+}
+.about{
+    font-family: 'Handlee';
+}
+
+
+
+
+button{
+    margin-right:10px;
+    margin-left: 10px;
+    border-radius: 15px 50px 30px 5px;
+}
